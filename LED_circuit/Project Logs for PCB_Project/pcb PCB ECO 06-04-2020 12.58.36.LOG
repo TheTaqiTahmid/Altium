@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Diode2 Pin=D3-2
+Removed Pin From Net: NetName=Diode2 Pin=R3-1
+Added Pin To Net: NetName=Diode3 Pin=D3-2
+Added Pin To Net: NetName=Diode3 Pin=R3-1
+Added Net: Name=Diode3
